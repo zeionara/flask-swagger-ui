@@ -1,6 +1,6 @@
 # flask-swagger-ui
 
-Simple Flask blueprint for adding [Swagger UI](https://github.com/swagger-api/swagger-ui) to your flask application.
+Simple Flask blueprint for adding [Swagger UI](https://github.com/swagger-api/swagger-ui) to your flask application. This version supports `LIST` as a custom http method.
 
 Included Swagger UI version: 4.11.1.
 
